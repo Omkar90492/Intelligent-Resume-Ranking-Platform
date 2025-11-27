@@ -1,7 +1,6 @@
 # 🚀 AI-Powered Resume Screening and Ranking System
 
-AI Hire is a web-based application designed to automate the resume screening and ranking process using advanced Natural Language Processing (NLP) techniques. It enables recruiters to efficiently identify the most suitable candidates by matching parsed resumes with job descriptions.
-
+An Intelligent Talent Acquisition Platform engineered with a decoupled Next.js frontend and Python/Flask backend. It uses TF-IDF to automatically rank resumes against job descriptions.
 ---
 
 ## 🔑 Key Features
@@ -188,16 +187,4 @@ Visit the app at: [http://localhost:5000](http://localhost:5000)
 
 ---
 
-## 📃 License
 
-MIT License. See [LICENSE](LICENSE) for more.
-
----
-
-## 🙌 Acknowledgements
-
-- [spaCy](https://spacy.io/)
-- [MongoDB](https://www.mongodb.com/)
-- [EdenAI Resume Parser](https://www.edenai.co/)
-- [Bootstrap](https://getbootstrap.com/)
-- [Flask](https://flask.palletsprojects.com/)
