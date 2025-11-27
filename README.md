@@ -1,6 +1,6 @@
-# 🚀 SmartHire - AI-Powered Resume Screening and Ranking System
+# 🚀 AI-Powered Resume Screening and Ranking System
 
-SmartHire is a web-based application designed to automate the resume screening and ranking process using advanced Natural Language Processing (NLP) techniques. It enables recruiters to efficiently identify the most suitable candidates by matching parsed resumes with job descriptions.
+AI Hire is a web-based application designed to automate the resume screening and ranking process using advanced Natural Language Processing (NLP) techniques. It enables recruiters to efficiently identify the most suitable candidates by matching parsed resumes with job descriptions.
 
 ---
 
