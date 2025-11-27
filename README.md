@@ -1,6 +1,7 @@
-# 🚀 AI-Powered Resume Screening and Ranking System
+# 🧑‍💼 AI Hire: Intelligent Talent Acquisition Platform
 
-An Intelligent Talent Acquisition Platform engineered with a decoupled Next.js frontend and Python/Flask backend. It uses TF-IDF to automatically rank resumes against job descriptions.
+**An Intelligent Talent Acquisition Platform engineered with a decoupled Next.js frontend and Python/Flask backend.** The system uses **TF-IDF** to automatically rank resumes against job descriptions, significantly boosting recruitment efficiency.
+
 ---
 
 ## 🔑 Key Features
