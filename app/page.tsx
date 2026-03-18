@@ -4,5 +4,5 @@ import { main } from "static/js/main"
 
 
 export default function SyntheticV0PageForDeployment() {
-  return < />
+ return <div>Project is Loading...</div>
 }
